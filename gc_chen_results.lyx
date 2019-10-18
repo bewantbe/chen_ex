@@ -83,11 +83,16 @@
 \begin_body
 
 \begin_layout Title
-GC results of L
+GC results of Chen's examples
 \end_layout
 
 \begin_layout Section
 GC values
+\end_layout
+
+\begin_layout Standard
+Ref: Analyzing multiple nonlinear time series with extended Granger causality,
+ Yonghong Chen et al.
 \end_layout
 
 \begin_layout Standard
